@@ -3,8 +3,8 @@ rencana baru
 -js
   *sintak baru 
   *framework baru
-   ^angular
-
+   ^vue
+-fundamental data struktur
 -php
- ^laravel
+  *laravel
 -dovops
